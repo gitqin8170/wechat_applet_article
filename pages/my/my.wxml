@@ -1,0 +1,6 @@
+<view><navigator class="nav" url="../my/post/post" hover-class="navigator-hover">
+      <view>
+        <image src="../../images/nav_bar_edit.png" style="width:30px;height:30px;"></image>
+      </view>
+      <view class="nav_name">草稿箱</view>
+    </navigator></view>
